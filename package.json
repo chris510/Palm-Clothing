@@ -33,7 +33,7 @@
     "nodemon": "^2.0.2",
     "passport": "^0.4.1",
     "stripe": "^8.32.0",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "enzyme": "^3.11.0"
